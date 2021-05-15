@@ -19,10 +19,9 @@ os.system('clear')
 print(Fore.GREEN + 'CoreKazuya Sms&Call')
 print(Fore.GREEN + 'İnstagram: @corekazuya')
 print(Fore.GREEN + 'İletişim: +447441431034')
-print(Fore.BLUE + '++++++++++++++++++')
-print(Fore.YELLOW + '============')
+print(Fore.YELLOW + '====================')
 phone = input('NUMARA: ')
-print('============')
+print('====================')
 
 try:
         attack_number_phone.phone(phone)
